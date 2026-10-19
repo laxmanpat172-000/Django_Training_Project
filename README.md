@@ -1,0 +1,2 @@
+# Django_Training_Project
+Django_Project
